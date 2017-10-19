@@ -1,0 +1,794 @@
+[
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000001')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000001')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000001",
+        "Custname" : "SAP AG",
+        "Form" : "Firma",
+        "Street" : "Neurottstr. 16",
+        "Pobox" : "",
+        "Postcode" : "69190",
+        "City" : "Walldorf",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "06227-34-0",
+        "Email" : "info@sap.de",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000001')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000002')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000002')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000002",
+        "Custname" : "Andreas Lotz",
+        "Form" : "Herr",
+        "Street" : "Pimpinellenweg 9",
+        "Pobox" : "",
+        "Postcode" : "69190",
+        "City" : "Walldorf",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "05344-676792",
+        "Email" : "Andreas.Lotz@sap.com",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000002')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000003')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000003')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000003",
+        "Custname" : "Hans Tillinger2",
+        "Form" : "Herr",
+        "Street" : "Veilchenstraße 12",
+        "Pobox" : "",
+        "Postcode" : "69119",
+        "City" : "Heidelberg",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "02099-44591",
+        "Email" : "Hansi@tilli.de",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000003')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000004')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000004')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000004",
+        "Custname" : "Staerck",
+        "Form" : "Frau",
+        "Street" : "Kaiserstr. 55",
+        "Pobox" : "",
+        "Postcode" : "69115",
+        "City" : "Heidelberg",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "07508-66-7886",
+        "Email" : "Farbenblind@gmx.de",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000004')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000005')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000005')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000005",
+        "Custname" : "Martin",
+        "Form" : "Mister",
+        "Street" : "44 Harolds Road",
+        "Pobox" : "",
+        "Postcode" : "L07 1AZ",
+        "City" : "Liverpool",
+        "Countr" : "GB",
+        "CountrIso" : "GB",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Steve.Martin@hool.uk",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000005')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000006')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000006')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000006",
+        "Custname" : "Starr",
+        "Form" : "Miss",
+        "Street" : "74 Kings Road",
+        "Pobox" : "",
+        "Postcode" : "L07 3BC",
+        "City" : "Liverpool",
+        "Countr" : "GB",
+        "CountrIso" : "GB",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "FCStar@unio.uk",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000006')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000007')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000007')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000007",
+        "Custname" : "King",
+        "Form" : "Mister",
+        "Street" : "Hyde Park 7",
+        "Pobox" : "",
+        "Postcode" : "M21 7AB",
+        "City" : "Manchester",
+        "Countr" : "GB",
+        "CountrIso" : "GB",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Burger@King.com",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000007')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000008')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000008')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000008",
+        "Custname" : "Moore",
+        "Form" : "Company",
+        "Street" : "",
+        "Pobox" : "A-312",
+        "Postcode" : "SW3 4DE",
+        "City" : "London",
+        "Countr" : "GB",
+        "CountrIso" : "GB",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Moore@abc.net",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000008')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000009')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000009')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000009",
+        "Custname" : "Everton FC",
+        "Form" : "",
+        "Street" : "Sir Wellington Road",
+        "Pobox" : "",
+        "Postcode" : "L08 5RZ",
+        "City" : "Liverpool",
+        "Countr" : "GB",
+        "CountrIso" : "GB",
+        "Region" : "",
+        "Phone" : "332-5678-0",
+        "Email" : "Football.Liverpool@sports.com",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000009')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000010')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000010')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000010",
+        "Custname" : "Raupp",
+        "Form" : "Herr",
+        "Street" : "Glockenblumenweg 5",
+        "Pobox" : "",
+        "Postcode" : "8002",
+        "City" : "Zuerich",
+        "Countr" : "CH",
+        "CountrIso" : "CH",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "HelmutDanielaRaupp@swiss.ch",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000010')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000011')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000011')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000011",
+        "Custname" : "Ballmann",
+        "Form" : "Herr",
+        "Street" : "Ballmanns Leiden 7",
+        "Pobox" : "",
+        "Postcode" : "69115",
+        "City" : "Heidelberg",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Ball@mann.net",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000011')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000012')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000012')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000012",
+        "Custname" : "Radetzky",
+        "Form" : "Frau",
+        "Street" : "Mozartstr. 102",
+        "Pobox" : "",
+        "Postcode" : "1000",
+        "City" : "Wien",
+        "Countr" : "AT",
+        "CountrIso" : "AT",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Radetzky@Marsch.at",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000012')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000013')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000013')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000013",
+        "Custname" : "Mueller",
+        "Form" : "Firma",
+        "Street" : "",
+        "Pobox" : "44321",
+        "Postcode" : "68159",
+        "City" : "Mannheim",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Vitamine@mueller.net",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000013')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000014')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000014')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000014",
+        "Custname" : "Genee",
+        "Form" : "Herr",
+        "Street" : "Albrecht-Duerer-Str. 4",
+        "Pobox" : "",
+        "Postcode" : "50733",
+        "City" : "Koeln",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Mausklick@cologne.net",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000014')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000015')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000015')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000015",
+        "Custname" : "Soehnen",
+        "Form" : "Herr",
+        "Street" : "Veilchenstr. 6",
+        "Pobox" : "",
+        "Postcode" : "01099",
+        "City" : "Dresden",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Pastor.Soehnen@kirche.de",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000015')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000016')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000016')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000016",
+        "Custname" : "Leihinger Brauerei",
+        "Form" : "Firma",
+        "Street" : "Leopoldsgasse 3",
+        "Pobox" : "",
+        "Postcode" : "80339",
+        "City" : "Muenchen",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Gutes-Bier@gluck-gluck.de",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000016')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000017')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000017')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000017",
+        "Custname" : "Ruthenberg",
+        "Form" : "Frau",
+        "Street" : "Hirschheimer Str. 6A",
+        "Pobox" : "",
+        "Postcode" : "69118",
+        "City" : "Heidelberg",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Briefkasten@ruthi.de",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000017')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000018')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000018')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000018",
+        "Custname" : "Miller",
+        "Form" : "Herr",
+        "Street" : "Am Sandberg 17",
+        "Pobox" : "",
+        "Postcode" : "46539",
+        "City" : "Dinslaken",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "MisterMiller@box.com",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000018')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000019')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000019')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000019",
+        "Custname" : "Plum",
+        "Form" : "Herr",
+        "Street" : "Dudenhoeferweg 26",
+        "Pobox" : "",
+        "Postcode" : "69493",
+        "City" : "Großsachsen",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Feuerrot@asdf.net",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000019')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000020')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000020')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000020",
+        "Custname" : "Becker",
+        "Form" : "Herr",
+        "Street" : "Wimbledonallee 6",
+        "Pobox" : "",
+        "Postcode" : "69181",
+        "City" : "Leimen",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Tennisarm@sabrina.de",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000020')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000021')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000021')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000021",
+        "Custname" : "SAP Oesterreich",
+        "Form" : "Firma",
+        "Street" : "",
+        "Pobox" : "25",
+        "Postcode" : "1221",
+        "City" : "Wien",
+        "Countr" : "AT",
+        "CountrIso" : "AT",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "info@sap.at",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000021')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000022')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000022')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000022",
+        "Custname" : "SAP (Schweiz) AG",
+        "Form" : "Firma",
+        "Street" : "Leugenestr. 6",
+        "Pobox" : "1305",
+        "Postcode" : "2500",
+        "City" : "Biel",
+        "Countr" : "CH",
+        "CountrIso" : "CH",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "info@sap.ch",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000022')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000023')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000023')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000023",
+        "Custname" : "SAP America Inc.",
+        "Form" : "",
+        "Street" : "701 Lee Road",
+        "Pobox" : "",
+        "Postcode" : "PA 19113",
+        "City" : "Philadelphia",
+        "Countr" : "US",
+        "CountrIso" : "US",
+        "Region" : "PA",
+        "Phone" : "",
+        "Email" : "info@sap.us.com",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000023')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000024')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000024')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000024",
+        "Custname" : "SAP Thailand",
+        "Form" : "",
+        "Street" : "287 Silom Road, Bangrak",
+        "Pobox" : "",
+        "Postcode" : "10500",
+        "City" : "Bangkok",
+        "Countr" : "TH",
+        "CountrIso" : "TH",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000024')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000025')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000025')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000025",
+        "Custname" : "SAP Australia PTY.LTD.",
+        "Form" : "",
+        "Street" : "168 Walker Street",
+        "Pobox" : "",
+        "Postcode" : "NSW 2060",
+        "City" : "Sydney",
+        "Countr" : "AU",
+        "CountrIso" : "AU",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000025')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000026')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000026')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000026",
+        "Custname" : "SAP Belgium SA",
+        "Form" : "",
+        "Street" : "2, Bld. de la Woluwe",
+        "Pobox" : "",
+        "Postcode" : "1150",
+        "City" : "Brussels",
+        "Countr" : "BE",
+        "CountrIso" : "BE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000026')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000027')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000027')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000027",
+        "Custname" : "SAP Canada Inc.",
+        "Form" : "",
+        "Street" : "4120 Yonge Street",
+        "Pobox" : "",
+        "Postcode" : "M2P 2B8",
+        "City" : "North York Ontario",
+        "Countr" : "CA",
+        "CountrIso" : "CA",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "info@sap.ca",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000027')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000028')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000028')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000028",
+        "Custname" : "SAP Danmark A/S",
+        "Form" : "",
+        "Street" : "Rinnager 4B",
+        "Pobox" : "",
+        "Postcode" : "2605",
+        "City" : "Broendy/Copenhagen",
+        "Countr" : "DK",
+        "CountrIso" : "DK",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "info@sap.dk",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000028')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000029')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000029')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000029",
+        "Custname" : "SAP France SA",
+        "Form" : "",
+        "Street" : "10 Avenue des Olympiades",
+        "Pobox" : "",
+        "Postcode" : "94132",
+        "City" : "Fontenay-Sous-Bois",
+        "Countr" : "FR",
+        "CountrIso" : "FR",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "info@sap.fr",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000029')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000030')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000030')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000030",
+        "Custname" : "SAP Italy SPA",
+        "Form" : "",
+        "Street" : "Palazzo Orione 3",
+        "Pobox" : "",
+        "Postcode" : "20041",
+        "City" : "Agrate Brianza/Milano",
+        "Countr" : "IT",
+        "CountrIso" : "IT",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000030')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000031')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000031')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000031",
+        "Custname" : "SAP Nederland B.V.",
+        "Form" : "",
+        "Street" : "Bruistensingel 400",
+        "Pobox" : "",
+        "Postcode" : "5232",
+        "City" : "AG'S Hertogenbosch",
+        "Countr" : "NL",
+        "CountrIso" : "NL",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000031')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000032')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000032')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000032",
+        "Custname" : "SAP Espana y Portugal S.A",
+        "Form" : "",
+        "Street" : "Av. da Libertade, 245-9C",
+        "Pobox" : "",
+        "Postcode" : "1250",
+        "City" : "Lisabon",
+        "Countr" : "ES",
+        "CountrIso" : "ES",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000032')/Buchungen"
+          }
+        }
+      },
+      {
+        "__metadata" : {
+          "id" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000033')",
+          "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000033')",
+          "type" : "ZGW_FLUGKUNDE_003_SRV.Flugkunden"
+        },
+        "Customerid" : "00000033",
+        "Custname" : "Ralf Kau",
+        "Form" : "Herr Dr.",
+        "Street" : "Antonweg 17",
+        "Pobox" : "",
+        "Postcode" : "69120",
+        "City" : "Heidelberg",
+        "Countr" : "DE",
+        "CountrIso" : "DE",
+        "Region" : "",
+        "Phone" : "",
+        "Email" : "Brillenfrosch@physikus.de",
+        "Buchungen" : {
+          "__deferred" : {
+            "uri" : "http://Train18.sap.integrata.net:8000/sap/opu/odata/sap/ZGW_FLUGKUNDE_003_SRV/FlugkundenSet('00000033')/Buchungen"
+          }
+        }
+      }
+    ]

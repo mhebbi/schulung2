@@ -1,6 +1,16 @@
-<mvc:View controllerName="de.integrata.fioi.curd.controller.Master" xmlns:mvc="sap.ui.core.mvc" xmlns:core="sap.ui.core" xmlns="sap.m"
+<mvc:View 
+	controllerName="de.integrata.fioi.curd.controller.Master" 
+	xmlns:mvc="sap.ui.core.mvc" 
+	xmlns:core="sap.ui.core" 
+	xmlns="sap.m"
 	xmlns:semantic="sap.m.semantic">
-	<semantic:MasterPage id="page" title="{masterView>/title}" navButtonPress="onNavBack" showNavButton="true">
+	
+	<semantic:MasterPage 
+		id="page" 
+		title="{masterView>/title}" 
+		navButtonPress="onNavBack" 
+		showNavButton="true">
+		
 		<semantic:subHeader>
 			<Bar id="headerBar">
 				<contentMiddle>
